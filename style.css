@@ -1,12 +1,12 @@
-.lightTheme{
+.day-theme{
   background: white;
 }
-.lightTheme p, .lightTheme h1{
+.day-theme p, .day-theme h1{
   color: #00000f;
 }
-.darkTheme{
+.night-theme{
   background: black;
 }
-.darkTheme p, .darkTheme h1{
+.night-theme p, .night-theme h1{
   color: white;
 }
