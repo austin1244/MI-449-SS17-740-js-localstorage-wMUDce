@@ -1,0 +1,12 @@
+.lightTheme{
+  background: white;
+}
+.lightTheme p, .lightTheme h1{
+  color: #00000f;
+}
+.darkTheme{
+  background: black;
+}
+.darkTheme p, .darkTheme h1{
+  color: white;
+}
