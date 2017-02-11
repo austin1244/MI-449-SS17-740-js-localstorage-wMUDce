@@ -10,8 +10,6 @@ page.theme = window.localStorage.getItem(storage.theme) || page.theme
 page.visits++
 
 document.body.setAttribute('class', page.theme)
-
-window.localStorage.setItem(storage.visits, page.visits)
 document.getElementById('visit-count').textContent = page.visits
 
 if (page.visits !== null) {
